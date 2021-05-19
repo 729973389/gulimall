@@ -1,0 +1,10 @@
+### Example user template template
+### Example user template
+# IntelliJ project files
+#用来忽略某些文件
+.idea
+*.iml
+out
+gen
+
+
